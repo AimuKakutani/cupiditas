@@ -1,1 +1,107 @@
-{"name":"Aimu Kakutani","belong-to":"ウイングアーク１ｓｔ株式会社","title":"エンジニア","avatar":"./img/github_icon.png","style":{"desktop":"Windows","mobile":"iPhone"},"point-skill":[{"skill-name":"Programing","skill-point":"20"},{"skill-name":"Database","skill-point":"40"},{"skill-name":"OS","skill-point":"20"},{"skill-name":"Hardware","skill-point":"20"},{"skill-name":"Security","skill-point":"10"}],"inherent-ability":{"name":"Ability Name","description":"Ability Description"},"abilities":{"numerical-ability":[{"id":1,"value":"3"},{"id":2,"value":"3"},{"id":3,"value":"2"},{"id":4,"value":"3"},{"id":5,"value":"3"},{"id":6,"value":"3"},{"id":7,"value":"3"},{"id":8,"value":"5"},{"id":9,"value":"3"},{"id":10,"value":"3"}],"special-ability":["8","11","22","23","72"]}}
+{
+    "name": "Aimu Kakutani",
+    "belong-to": "ウイングアーク１ｓｔ株式会社",
+    "title": "エンジニア",
+    "avatar": "./img/github_icon.png",
+    "style": {
+        "desktop": "Windows",
+        "mobile": "iPhone"
+    },
+    "point-skill": [
+        {
+            "skill-name": "Programing",
+            "skill-point": "20"
+        },
+        {
+            "skill-name": "Database",
+            "skill-point": "40"
+        },
+        {
+            "skill-name": "OS",
+            "skill-point": "20"
+        },
+        {
+            "skill-name": "Hardware",
+            "skill-point": "20"
+        },
+        {
+            "skill-name": "Security",
+            "skill-point": "10"
+        }
+    ],
+    "inherent-ability": {
+        "name": "学習欲",
+        "description": "学習することが好き"
+    },
+    "abilities": {
+        "numerical-ability": [
+            {
+                "id": 1,
+                "value": "3"
+            },
+            {
+                "id": 2,
+                "value": "3"
+            },
+            {
+                "id": 3,
+                "value": "2"
+            },
+            {
+                "id": 4,
+                "value": "3"
+            },
+            {
+                "id": 5,
+                "value": "3"
+            },
+            {
+                "id": 6,
+                "value": "3"
+            },
+            {
+                "id": 7,
+                "value": "3"
+            },
+            {
+                "id": 8,
+                "value": "5"
+            },
+            {
+                "id": 9,
+                "value": "3"
+            },
+            {
+                "id": 10,
+                "value": "3"
+            }
+        ],
+        "special-ability": [
+            "8",
+            "9",
+            "11",
+            "12",
+            "18",
+            "22",
+            "23",
+            "26",
+            "43",
+            "46",
+            "56",
+            "67",
+            "69",
+            "70",
+            "71",
+            "72",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78",
+            "79",
+            "80",
+            "81",
+        ]
+    }
+}

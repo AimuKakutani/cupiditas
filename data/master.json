@@ -178,8 +178,8 @@
       {
         "id": 13,
         "type": "personality",
-        "description": "Apple製品を盲信している",
-        "title": "Apple信者"
+        "description": "Windowsを主に利用している",
+        "title": "Windows派"
       },
       {
         "id": 14,
@@ -226,8 +226,8 @@
       {
         "id": 21,
         "type": "personality",
-        "description": "エディタはEmacsを使用する。Vimはあまり好きじゃない",
-        "title": "Emacs派"
+        "description": "エディタはVSCodeを使用する。",
+        "title": "VSCode派"
       },
       {
         "id": 22,
@@ -377,19 +377,19 @@
         "id": 46,
         "type": "personality",
         "description": "デスクトップが比較的整理整頓されている。",
-        "title": "デスクトップきれい"
+        "title": "デスクトップ整理"
       },
       {
         "id": 47,
         "type": "personality",
-        "description": "JISキーボードではありません。シングルクォートはシフト押さない。",
-        "title": "英字キーボード"
+        "description": "フルサイズのJISキーボード使ってます。",
+        "title": "100 %キーボード"
       },
       {
         "id": 48,
         "type": "personality",
-        "description": "キーボードに文字を表記する必要はないです。男気でタイピング。",
-        "title": "無刻印キーボード"
+        "description": "JISキーボードではありません。シングルクォートはシフト押さない。",
+        "title": "英字キーボード"
       },
       {
         "id": 49,
@@ -424,8 +424,8 @@
       {
         "id": 54,
         "type": "negative-ability",
-        "description": "タイプミスしがち。その時の自分には正しく見えていた。",
-        "title": "タイポ多し"
+        "description": "寒い場所が苦手。クーラーガンガンの部屋では長袖必須。",
+        "title": "寒がり"
       },
       {
         "id": 55,

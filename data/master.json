@@ -149,8 +149,8 @@
       {
         "id": 9,
         "type": "negative-ability",
-        "description": "いつでもどこでも、よく喋っている。逆にいないと場が静かになる程。",
-        "title": "おしゃべりクソ野郎",
+        "description": "少し人見知りな部分がある。",
+        "title": "ちょっとだけ人見知り",
         "append": {
           "class": [
             "font-small"
@@ -172,8 +172,8 @@
       {
         "id": 12,
         "type": "positive-ability",
-        "description": "フランス語を話すことができる",
-        "title": "フランス語"
+        "description": "英語がちょっとわかる",
+        "title": "英語"
       },
       {
         "id": 13,
@@ -207,9 +207,9 @@
       },
       {
         "id": 18,
-        "type": "negative-ability",
-        "description": "上司や先輩相手でも、物の言い方が偉そう",
-        "title": "上から目線"
+        "type": "positive-ability",
+        "description": "上司や先輩相手には物腰が低い",
+        "title": "礼儀正しさ"
       },
       {
         "id": 19,
@@ -376,8 +376,8 @@
       {
         "id": 46,
         "type": "personality",
-        "description": "デスクトップにアイコンが散らばっている。",
-        "title": "過密デスクトップ"
+        "description": "デスクトップが比較的整理整頓されている。",
+        "title": "デスクトップきれい"
       },
       {
         "id": 47,
@@ -406,8 +406,8 @@
       {
         "id": 51,
         "type": "positive-ability",
-        "description": "守備範囲が広い。どんなことでもある程度できる。",
-        "title": "オールラウンダー"
+        "description": "毎日散歩で健康的に",
+        "title": "散歩で健康"
       },
       {
         "id": 52,
@@ -517,79 +517,79 @@
       {
         "id": 69,
         "type": "positive-ability",
-        "description": "みんなが意見を聞きに来る。もしくは周りにアドバイスを積極的にする。",
-        "title": "司令塔"
+        "description": "好奇心旺盛。学ぶのが好き。",
+        "title": "好奇心"
       },
       {
         "id": 70,
-        "type": "negative-ability",
-        "description": "業務で起こる色々な物事に対して、基本的に興味がない",
-        "title": "無関心"
+        "type": "positive-ability",
+        "description": "未知の分野、最先端が好き。",
+        "title": "ミーハー"
       },
       {
         "id": 71,
         "type": "positive-ability",
-        "description": "相手が1,2をしゃべると、10までを理解する。",
-        "title": "察し力"
+        "description": "知識のアウトプット、シェアの場があると嬉しい。",
+        "title": "知識の共有"
       },
       {
         "id": 72,
-        "type": "positive-ability",
-        "description": "周りに対して常に気を使っている",
-        "title": "気配り屋"
+        "type": "negative-ability",
+        "description": "新しい学びが無い状況が続くことが苦手。",
+        "title": "停滞感"
       },
       {
         "id": 73,
         "type": "positive-ability",
-        "description": "いつも冷静で物事に動じにくい",
-        "title": "冷静沈着"
+        "description": "お互いに尊重しあえる関係性が好き。",
+        "title": "尊重"
       },
       {
         "id": 74,
-        "type": "negative-ability",
-        "description": "すぐに焦ってしまう",
-        "title": "慌てん坊"
+        "type": "positive-ability",
+        "description": "多くの情報や物を持つことが苦ではない。",
+        "title": "蒐集"
       },
       {
         "id": 75,
-        "type": "positive-ability",
-        "description": "気分を害することがあっても、怒るような場面は少ない",
-        "title": "穏やか"
+        "type": "negative-ability",
+        "description": "情報がシェアされない、情報を収集する時間が取れない状況が苦手。",
+        "title": "情報収集型"
       },
       {
         "id": 76,
         "type": "negative-ability",
-        "description": "すぐに頭に血が上りやすい",
-        "title": "短気"
+        "description": "集めたものを断捨離することが苦手。",
+        "title": "ため込み"
       },
       {
         "id": 77,
         "type": "positive-ability",
-        "description": "障害やトラブル等の渦中に自分から進んで入っていく。火中の栗を拾う人。",
-        "title": "栗拾い"
+        "description": "データや事実が好き。",
+        "title": "合理的"
       },
       {
         "id": 78,
         "type": "positive-ability",
-        "description": "観察しただけではわからないことも、直感で察知することができる",
-        "title": "洞察力"
+        "description": "理由と原因を探す傾向にある。",
+        "title": "分析思考"
       },
       {
         "id": 79,
         "type": "negative-ability",
-        "description": "会議等で席にいないことが多い",
-        "title": "席にいない"
+        "description": "目の前の作業に集中しすぎることがある。",
+        "title": "没頭"
       },
       {
         "id": 80,
-        "type": "positive-ability",
-        "description": "PJがピンチなとき、思ってもいない力を発揮する",
-        "title": "火事場の馬鹿力"
+        "type": "negative-ability",
+        "description": "理由、原因が曖昧な状況が苦手。",
+        "title": "曖昧さ回避"
       },
       {
         "id": 81,
         "type": "positive-ability",
-        "description": "本人がいるだけで、プロジェクトにやる気がみなぎる",
+        "description": "人を励ますことが好き。",
         "title": "情熱エール"
       },
       {
